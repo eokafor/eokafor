@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eokafor
 - 👀 I’m interested in Java development, web development and machine learning 
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently researching more about machine learning 
 - 💞️ I’m looking to collaborate on awesome projects and expand my knowledge and network
 - 📫 You can reach me through my LinkedIn: http://linkedin.com/in/okafor99
 
